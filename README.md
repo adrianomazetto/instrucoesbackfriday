@@ -1062,7 +1062,7 @@ router.delete('/products/:id', productController.deleteProduct);
 module.exports = router;
 ```
 
-/backend/src/validators   crie o arquivo  server.js
+/backend/src/  crie o arquivo  server.js
 
 ```jsx
 require('dotenv').config();
