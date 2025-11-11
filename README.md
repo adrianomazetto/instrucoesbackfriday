@@ -1045,7 +1045,7 @@ exports.deleteProduct = async (req, res) => {
 };
 ```
 
-/backend/src/routers  crie o arquivo  productRouters.js
+/backend/src/routes  crie o arquivo  productRouters.js
 
 ```jsx
 const express = require('express');
