@@ -1116,7 +1116,7 @@ SUPABASE_URL=coloqueaquisuaurl
 SUPABASE_KEY=coloqueaquisuakey
 ```
 
-/backend/src/routes crie o arquivo productRouters.js
+/backend/src/validators crie o arquivo productValidator.js
 
 ```jsx
 // Validar dados do produto
